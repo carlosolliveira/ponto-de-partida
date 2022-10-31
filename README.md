@@ -6,9 +6,9 @@ Hi :v:, eu me chamo Carlos tenho 18y e criei esse repositório com objetivo de a
 Se não tiver não tem problema, más eu recomendaria você fazer caso você não saiba digitar, usar explorador de arquivo e instalar programas.
 
 ### Preparando os astronautas :books:
-1 - [Como a internet funciona?](pages/1-como-a-internet-funciona.md)
-2 - [A diferença entre HTML, CSS e JavaScript](pages/2-html-css-javascript.md)
-3 - [Front-end, Back-end e Full stack](pages/2-Frontend-Backend-Fullstack.md)
+1. [Como a internet funciona?](pages/1-como-a-internet-funciona.md)
+2. [A diferença entre HTML, CSS e JavaScript](pages/2-html-css-javascript.md)
+3. [Front-end, Back-end e Full stack](pages/2-Frontend-Backend-Fullstack.md)
 
 ### Decolar para sua longa jornada
 ...
