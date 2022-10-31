@@ -8,7 +8,7 @@ Se não tiver não tem problema, más eu recomendaria você fazer caso você nã
 ### Preparando os astronautas :books:
 1. [Como a internet funciona?](pages/1-como-a-internet-funciona.md)
 2. [A diferença entre HTML, CSS e JavaScript](pages/2-html-css-javascript.md)
-3. [Front-end, Back-end e Full stack](pages/2-Frontend-Backend-Fullstack.md)
+3. [Front-end, Back-end e Full stack](pages/3-Frontend-Backend-Fullstack.md)
 
 ### Decolar para sua longa jornada
 ...
