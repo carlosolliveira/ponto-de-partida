@@ -3,7 +3,7 @@
 Hi :v:, eu me chamo Carlos tenho 18y e criei esse repositório com objetivo de ajudar pessoas que querem entrar no mundo da programação más não sabem por onde começar. Não sou profissional no assusto, más aqui está uma sequência(um norte para sua jornada) que eu recomendaria.
 
 ##### Você tem curso de informática básica?
-Se não tiver não tem problema, más eu recomendaria você fazer caso você não saiba digitar, usar explorador de arquivo e instalar programas.
+Se não tiver não tem problema, mas eu recomendaria você fazer caso você não saiba digitar, usar explorador de arquivo e instalar programas.
 
 ### Preparando os astronautas :books:
 1. [Como a internet funciona?](pages/1-como-a-internet-funciona.md)
